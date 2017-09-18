@@ -1,6 +1,6 @@
 # dockershiny
 Dockerize Shiny Applications to make them platform independent.
-With the docker model , we can safely say its platform independent as once the shiny app is bundles into docker image ,all thats needed is a docker daemon thread to get the app run.
+With the docker model , we can safely say its platform independent as once the shiny app is bundled into docker image ,all thats needed is a docker daemon thread to get the app run.
 
 This code set is a successful attempt to implement the usage of https://www.shinyproxy.io/ using the reference https://www.shinyproxy.io/getting-started/.
 
